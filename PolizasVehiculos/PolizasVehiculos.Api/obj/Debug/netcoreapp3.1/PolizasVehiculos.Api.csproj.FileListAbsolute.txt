@@ -1,0 +1,324 @@
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.exe
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.deps.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.dev.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.AssemblyReference.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfoInputs.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfo.cs
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CoreCompileInputs.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\staticwebassets\PolizasVehiculos.Api.StaticWebAssets.Manifest.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\staticwebassets\PolizasVehiculos.Api.StaticWebAssets.xml
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolizasVehiculos.Api.styles.css
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.RazorTargetAssemblyInfo.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.genruntimeconfig.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CopyComplete
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.AssemblyReference.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfoInputs.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfo.cs
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CoreCompileInputs.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.exe
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.deps.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.dev.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\staticwebassets\PolizasVehiculos.Api.StaticWebAssets.Manifest.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\staticwebassets\PolizasVehiculos.Api.StaticWebAssets.xml
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolizasVehiculos.Api.styles.css
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.RazorTargetAssemblyInfo.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CopyComplete
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.genruntimeconfig.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.StaticWebAssets.xml
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.exe
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.deps.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.dev.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.AssemblyReference.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfoInputs.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfo.cs
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CoreCompileInputs.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\staticwebassets\PolizasVehiculos.Api.StaticWebAssets.Manifest.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.RazorTargetAssemblyInfo.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CopyComplete
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.genruntimeconfig.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.StaticWebAssets.xml
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.exe
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.deps.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.runtimeconfig.dev.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.AssemblyReference.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfoInputs.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.AssemblyInfo.cs
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CoreCompileInputs.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\staticwebassets\PolizasVehiculos.Api.StaticWebAssets.Manifest.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.RazorTargetAssemblyInfo.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.csproj.CopyComplete
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.xml
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Api\obj\Debug\netcoreapp3.1\PolizasVehiculos.Api.genruntimeconfig.cache

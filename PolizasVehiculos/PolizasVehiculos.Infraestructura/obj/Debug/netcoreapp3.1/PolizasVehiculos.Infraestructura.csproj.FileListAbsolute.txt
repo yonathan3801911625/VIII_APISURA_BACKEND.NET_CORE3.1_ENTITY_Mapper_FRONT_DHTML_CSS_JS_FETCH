@@ -1,0 +1,62 @@
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.deps.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.dev.json
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfo.cs
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CopyComplete
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+C:\Users\mjcorrea\source\repos\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.genruntimeconfig.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfo.cs
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.deps.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.dev.json
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CopyComplete
+C:\Users\mjcorrea\Documents\los-de-la-esquina\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.genruntimeconfig.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.deps.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.dev.json
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.AssemblyReference.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfoInputs.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfo.cs
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CoreCompileInputs.cache
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CopyComplete
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+F:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.genruntimeconfig.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.deps.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.runtimeconfig.dev.json
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\bin\Debug\netcoreapp3.1\PolizasVehiculos.Core.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.AssemblyReference.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfoInputs.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.AssemblyInfo.cs
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CoreCompileInputs.cache
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.csproj.CopyComplete
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.dll
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.pdb
+E:\U Caldas\Semestre VIII\Clases\Arquitectura de Software Empresarial\Willington Londoño\Proyecto SURA\ProyectoGitHub\PolizasVehiculos\PolizasVehiculos.Infraestructura\obj\Debug\netcoreapp3.1\PolizasVehiculos.Infraestructura.genruntimeconfig.cache

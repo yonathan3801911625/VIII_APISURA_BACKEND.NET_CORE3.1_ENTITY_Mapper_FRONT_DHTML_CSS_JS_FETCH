@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PolizasVehiculos.Api</name>
+    </assembly>
+    <members>
+        <member name="M:PolizasVehiculos.Api.Controllers.PaisController.obtenerPaises">
+            <summary>
+            Retorna todos los paises
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PolizasVehiculos.Api.Controllers.PolizaController.obtenerPolizas">
+            <summary>
+            Retorna todos los polizas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PolizasVehiculos.Api.Controllers.ProductoController.obtenerProductos">
+            <summary>
+            Retorna todos los paises
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PolizasVehiculos.Api.Controllers.TokenController.Autenticacion(PolizasVehiculos.Core.Entidades.UsuarioLogin)">
+            <summary>
+            Autenticacion por Token
+            </summary>
+            <param name="usuarioLogin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PolizasVehiculos.Api.Controllers.UsuarioController.obtenerUsuarios">
+            <summary>
+            Retorna todos los usuarios
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PolizasVehiculos.Api.Controllers.VehiculoController.obtenerVehiculos">
+            <summary>
+            Retorna todos los vehiculos
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

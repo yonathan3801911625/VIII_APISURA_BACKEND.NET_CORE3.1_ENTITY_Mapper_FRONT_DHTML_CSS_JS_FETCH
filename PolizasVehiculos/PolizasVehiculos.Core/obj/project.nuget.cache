@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrFfgzBVB3qwAKPeccCRv5L7ZQo4pSuZQpW31G4kcdMs+XWzhom2hgf5Ww0fxvKSO9VA71liSWl2YpgWtG4Gaw==",
+  "success": true,
+  "projectFilePath": "F:\\U Caldas\\Semestre VIII\\Clases\\Arquitectura de Software Empresarial\\Willington Londoño\\Proyecto SURA\\ProyectoGitHub\\PolizasVehiculos\\PolizasVehiculos.Core\\PolizasVehiculos.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shonatan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.11\\microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\Shonatan\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

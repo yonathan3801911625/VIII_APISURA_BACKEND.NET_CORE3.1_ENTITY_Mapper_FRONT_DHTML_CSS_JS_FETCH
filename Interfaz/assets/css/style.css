@@ -1,0 +1,50 @@
+.azulCuadroResalte{
+    color: #0132A0;
+}
+
+.fondoCuadroResalteTitulo{
+    background-color: #D9E0F0;
+}
+
+.fondoGris{
+    background-color: #F2F2F2;
+}
+
+.azulVerdePastel{
+    color: #06ADBF;
+}
+
+.azulVerdePastelFondo{
+    background-color: #06ADBF;
+}
+
+.amarilloBrillo{
+ color: #EAF205;
+}
+
+.amarilloOpaco{
+    color: #F2EC9B;
+}
+
+.amarilloNeutro{
+    color: #F2E52E;
+}
+
+.colorButton{
+    background-color: #e3e828;
+}
+
+.fondoAzul{
+    background-color: #034AA6;
+}
+
+.botonMenuConstante {
+    color: white;
+    background-color: #0339A6;
+  }
+
+.botonMenu:hover {
+    color: white;
+    background-color: #0339A6;
+  }
+
